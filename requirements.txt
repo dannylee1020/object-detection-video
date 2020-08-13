@@ -1,0 +1,5 @@
+numpy == 1.18.5
+argparse
+opencv-python == 3.4.2.17
+streamlit == 0.62.1
+imutils 
