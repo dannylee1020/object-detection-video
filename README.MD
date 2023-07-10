@@ -7,7 +7,7 @@ Detecting objects in a video using YOLO V3 algorithm. The approach is quite simi
 from the root directory, run
 
 		docker build -t <name-of-your-image> .
-		docker run -p 8501:8501 <name-of-your-image> :latest
+		docker run -p 8501:8501 <name-of-your-image>:latest
 
 then visit [localhost:8501](https://localhost:8501) for streamlit app
 
